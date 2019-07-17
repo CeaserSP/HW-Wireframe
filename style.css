@@ -2,15 +2,16 @@
     /* relative positioning */
     position: absolute;
     /* box-sizing: 50%; */
-    width: 100%;
-    height: 100%;
+    width: 960px;
+    height: auto;
     background: darkgray;
     /* border: none; */
+    overflow: auto;
   }
   .header{
       position: relative;
       background: lightgray;
-      width: 650px;
+      width: 75%;
       border: 20px;
       padding: 20px;
       margin: auto;
@@ -19,7 +20,7 @@
   .nav{
       position: relative;
       background: lightgray;
-      width: 650px;
+      width: 75%;
       border: 0px;
       padding: 20px;
       margin: auto;
@@ -27,17 +28,20 @@
   }
   .section{
     position: relative;
+    float: left;
+    
     background: lightgray;
-    width: auto;
+    width: 495px;
+    height: 300px;
     border: 15px;
     padding: 50px;
     margin: 20px;
-    text-align: center;
+    /* text-align: center; */
 }
 .article{
     float: right;
     background: darkgray;
-    width: auto;
+    width: 80%;
     border: 15px;
     padding: 50px;
     margin: 20px;
@@ -46,7 +50,7 @@
 .h1{
     position: relative;
     background: lightgray;
-    width: auto;
+    width: 40%;
     border: 15px;
     padding: 50px;
     margin: 20px;
@@ -55,27 +59,40 @@
 .p{
     position: relative;
     background: lightgray;
-    width: auto;
+    width: 40%;
     border: 15px;
     padding: 50px;
     margin: 20px;
     text-align: center;
 }
 .aside{
-    float: left;
+    float: right;
     background: lightgray;
-    width: auto;
+    width: 100px;
     border: 15px;
     padding: 50px;
     margin: 20px;
     text-align: center;
 }
 .footer{
-    position: relative;
+    /* position: relative;
+      background: lightgray;
+      width: 75%;
+      border: 20px;
+      padding: 20px;
+      margin: auto;
+      text-align: center;
+  } */
+    /* clear: both; */
+    position: absolute;
     background: lightgray;
-    width: auto;
-    border: 15px;
-    padding: 50px;
-    margin: 20px;
+    bottom: 20px;
+    width: 650px;
+    border: 20px;
+    padding: 20px;
+    margin: auto;
     text-align: center;
 }
+/* .clearfix::after{
+    clear: both;
+} */
