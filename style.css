@@ -1,0 +1,81 @@
+.box-set {
+    /* relative positioning */
+    position: absolute;
+    /* box-sizing: 50%; */
+    width: 100%;
+    height: 100%;
+    background: darkgray;
+    /* border: none; */
+  }
+  .header{
+      position: relative;
+      background: lightgray;
+      width: auto;
+      border: 15px;
+      padding: 50px;
+      margin: 20px;
+      text-align: center;
+  }
+  .nav{
+      position: relative;
+      background: lightgray;
+      width: auto;
+      border: 15px;
+      padding: 50px;
+      margin: 20px;
+      text-align: center;
+  }
+  .section{
+    position: relative;
+    background: lightgray;
+    width: auto;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+}
+.article{
+    float: right;
+    background: darkgray;
+    width: auto;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+}
+.h1{
+    position: relative;
+    background: lightgray;
+    width: auto;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+}
+.p{
+    position: relative;
+    background: lightgray;
+    width: auto;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+}
+.aside{
+    float: left;
+    background: lightgray;
+    width: auto;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+}
+.footer{
+    position: relative;
+    background: lightgray;
+    width: auto;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+}
