@@ -24,7 +24,7 @@
       position: relative;
       background: lightgray;
       width: 75%;
-      height: 50px;
+      height: 40px;
       border: 20px;
       padding: 20px;
       margin-top: 10px;
@@ -111,9 +111,10 @@
     position: absolute;
     background: lightgray;
     width: 75%;
+    height: 40px;
     border: 20px;
     padding: 20px;
-    margin-top: 280px;
+    margin-top: 260px;
     margin-left: 100px;
     margin-bottom: 10px;
     text-align: center;
