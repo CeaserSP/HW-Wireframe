@@ -3,7 +3,7 @@
     position: absolute;
     /* box-sizing: 50%; */
     width: 960px;
-    height: auto;
+    height: 550px;
     background: darkgray;
     /* border: none; */
     overflow: auto;
@@ -32,43 +32,59 @@
     
     background: lightgray;
     width: 495px;
-    height: 300px;
-    border: 15px;
-    padding: 50px;
-    margin: 20px;
+    height: 200px;
+    /* border: 15px; */
+    padding: 15px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom:10px;
+    margin-left:100px;
+
     /* text-align: center; */
 }
 .article{
-    float: right;
+    /* float: right; */
     background: darkgray;
-    width: 80%;
-    border: 15px;
-    padding: 50px;
-    margin: 20px;
+    width: 450px;
+    /* height: 100px;  */
+    border: 0px;
+    padding: 15px;
+    /* margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom:10px;
+    margin-left:100px; */
     text-align: center;
 }
 .h1{
     position: relative;
     background: lightgray;
-    width: 40%;
-    border: 15px;
-    padding: 50px;
-    margin: 20px;
-    text-align: center;
+    width: 80%;
+    /* height: 5px; */
+    /* border: 15px; */
+    padding: 20px;
+    /* margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom:10px; */
+    margin-left:25px;
+    /* text-align: center; */
 }
 .p{
     position: relative;
     background: lightgray;
     width: 40%;
+    height: 5px;
     border: 15px;
     padding: 50px;
-    margin: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom:10px;
+    margin-left:100px;
     text-align: center;
 }
 .aside{
-    float: right;
+    float: left;
     background: lightgray;
-    width: 100px;
+    width: auto;
     border: 15px;
     padding: 50px;
     margin: 20px;
