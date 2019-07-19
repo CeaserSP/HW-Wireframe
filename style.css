@@ -108,11 +108,12 @@
     /* clear: both; */
     position: absolute;
     background: lightgray;
-    bottom: 20px;
-    width: 650px;
+    width: 75%;
     border: 20px;
     padding: 20px;
-    margin: auto;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-bottom: 10px;
     text-align: center;
 }
 /* .clearfix::after{
