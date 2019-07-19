@@ -92,10 +92,10 @@
 .aside{
     float: left;
     background: lightgray;
-    width: 115px;
+    width: 125px;
     border: 15px;
     padding: 50px;
-    margin: 20px;
+    /* margin: 20px; */
     text-align: center;
 }
 .footer{
