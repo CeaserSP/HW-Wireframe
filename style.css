@@ -90,7 +90,7 @@
 .aside{
     float: left;
     background: lightgray;
-    width: auto;
+    width: 115px;
     border: 15px;
     padding: 50px;
     margin: 20px;
