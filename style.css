@@ -51,7 +51,7 @@
 .article{
     /* float: right; */
     background: darkgray;
-    width: 450px;
+    width: 465px;
     height: 150px; 
     border: 0px;
     padding: 15px;
@@ -64,28 +64,28 @@
 .h1{
     position: relative;
     background: lightgray;
-    width: 80%;
+    width: 85%;
     /* height: 5px; */
     /* border: 15px; */
     padding: 20px;
     margin-top: 15px;
     /* margin-right: 10px;
     margin-bottom:10px; */
-    margin-left:25px;
+    margin-left:10px;
     margin-bottom: 10px;
     /* text-align: center; */
 }
 .p{
     position: relative;
     background: lightgray;
-    width: 80%;
+    width: 85%;
     /* height: 5px; */
     /* border: 15px; */
     padding: 20px;
     /* margin-top: 10px;
     margin-right: 10px;
     margin-bottom:10px; */
-    margin-left:25px;
+    margin-left:10px;
     margin-bottom: 10px;
     /* text-align: center; */
 }
