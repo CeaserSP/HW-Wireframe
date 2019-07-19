@@ -14,7 +14,9 @@
       width: 75%;
       border: 20px;
       padding: 20px;
-      margin: auto;
+      margin-top: 10px;
+      margin-left: 100px;
+      margin-bottom: 10px;
       text-align: center;
   }
   .nav{
@@ -23,7 +25,9 @@
       width: 75%;
       border: 0px;
       padding: 20px;
-      margin: auto;
+      margin-top: 10px;
+      margin-left: 100px;
+      margin-bottom: 10px;
       text-align: center;
   }
   .section{
