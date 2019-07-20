@@ -4,7 +4,7 @@
     /* box-sizing: 50%; */
     width: 960px;
     height: 550px;
-    background: darkgray;
+    background: #777;
     /* border: none; */
     overflow: auto;
   }
@@ -50,7 +50,7 @@
 }
 .article{
     /* float: right; */
-    background: darkgray;
+    background: #777;
     width: 465px;
     height: 150px; 
     border: 0px;
