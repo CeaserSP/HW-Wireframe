@@ -33,6 +33,9 @@
       margin-bottom: 10px;
       text-align: center;
   }
+  .Section_title{
+      text-align: center;
+  }
   .section{
     position: relative;
     float: left;
