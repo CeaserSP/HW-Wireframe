@@ -10,7 +10,7 @@
   }
   .header{
       position: relative;
-      background: lightgray;
+      background: #ebebeb;
       width: 75%;
       height: 50px;
       border: 20px;
@@ -22,7 +22,7 @@
   }
   .nav{
       position: relative;
-      background: lightgray;
+      background: #ebebebay;
       width: 75%;
       height: 40px;
       border: 20px;
@@ -36,7 +36,7 @@
     position: relative;
     float: left;
     
-    background: lightgray;
+    background: #ebebebay;
     width: 495px;
     height: 220px;
     /* border: 15px; */
@@ -63,7 +63,7 @@
 }
 .h1{
     position: relative;
-    background: lightgray;
+    background: #ebebebay;
     width: 85%;
     /* height: 5px; */
     /* border: 15px; */
@@ -77,7 +77,7 @@
 }
 .p{
     position: relative;
-    background: lightgray;
+    background: #ebebebay;
     width: 85%;
     /* height: 5px; */
     /* border: 15px; */
@@ -91,7 +91,7 @@
 }
 .aside{
     float: left;
-    background: lightgray;
+    background: #ebebebay;
     width: 125px;
     height: 150px;
     border: 15px;
@@ -101,7 +101,7 @@
 }
 .footer{
     /* position: relative;
-      background: lightgray;
+      background: #ebebebay;
       width: 75%;
       border: 20px;
       padding: 20px;
@@ -110,7 +110,7 @@
   } */
     /* clear: both; */
     position: absolute;
-    background: lightgray;
+    background: #ebebebay;
     width: 75%;
     height: 30px;
     border: 20px;
